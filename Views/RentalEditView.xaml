@@ -1,0 +1,68 @@
+﻿<Window x:Class="CarRental.Views.RentalEditView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarRental.Views"
+        mc:Ignorable="d"
+        Title="RentalEditView" Height="450" Width="800">
+	<Grid>
+		<StackPanel Margin="10">
+			<!-- Customer -->
+			<StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+				<Label Content="Customer:" VerticalAlignment="Center" Width="120"/>
+				<ComboBox 
+					ItemsSource="{Binding Customers}"
+					SelectedItem="{Binding SelectedCustomer, Mode=TwoWay}" 
+					DisplayMemberPath="Name"
+					HorizontalAlignment="Center" 
+					VerticalAlignment="Center" 
+					Width="250" />
+			</StackPanel>
+ 
+			<!-- Car -->
+			<StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+				<Label Content="Car:" VerticalAlignment="Center" Width="120"/>
+				<ComboBox 
+					ItemsSource="{Binding Cars}"
+					SelectedItem="{Binding SelectedCar, Mode=TwoWay}" 
+					DisplayMemberPath="MakeModel"
+					HorizontalAlignment="Center" 
+					VerticalAlignment="Center" 
+					Width="250" />
+			</StackPanel>
+
+			<!-- Start Date -->
+			<StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+				<Label Content="StartDate:" VerticalAlignment="Center" Width="120"/>
+				<DatePicker 
+					SelectedDate="{Binding StartDate, Mode=TwoWay}" 
+					HorizontalAlignment="Center" 
+					VerticalAlignment="Center" 
+					Width="250" />
+			</StackPanel>
+
+			<!-- End Date -->
+			<StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+				<Label Content="EndDate:" VerticalAlignment="Center" Width="120"/>
+				<DatePicker 
+					SelectedDate="{Binding EndDate, Mode=TwoWay}" 
+					HorizontalAlignment="Center" 
+					VerticalAlignment="Center" 
+					Width="250" />
+			</StackPanel>
+
+			<!-- Kilometers Rented -->
+			<StackPanel Orientation="Horizontal" Margin="0,0,0,20">
+				<Label Content="Kilometers Rented:" VerticalAlignment="Center" Width="120"/>
+				<TextBox Text="{Binding KilometersRented, UpdateSourceTrigger=PropertyChanged}" Width="250"/>
+			</StackPanel>
+
+			<StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+				<Button Content="Save" Command="{Binding SaveCommand}" Width="75" Margin="5"/>
+				<Button Content="Delete" Command="{Binding DeleteCommand}" Width="75" Margin="5"/>
+				<Button Content="Cancel" Command="{Binding CancelCommand}" Width="75" Margin="5"/>
+			</StackPanel>
+		</StackPanel>
+	</Grid>
+</Window>

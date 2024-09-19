@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\viewmodels\\rentaleditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:viewmodels\\rentaleditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\rentaleditview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\rentaleditview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\rentaleditview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\rentaleditview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\viewmodels\\rentaltableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:viewmodels\\rentaltableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\rentaltableview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\rentaltableview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\rentaltableview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\rentaltableview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\libs\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:libs\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\viewmodels\\careditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:viewmodels\\careditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\careditview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\careditview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\careditview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\careditview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\viewmodels\\cartableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:viewmodels\\cartableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\cartableview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\cartableview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\cartableview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\cartableview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\viewmodels\\customertableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:viewmodels\\customertableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\customertableview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\customertableview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\customertableview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\customertableview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\viewmodels\\customereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:viewmodels\\customereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\customereditview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\customereditview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\views\\customereditview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:views\\customereditview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\models\\fullrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:models\\fullrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|c:\\users\\tobias\\source\\repos\\carrental\\ferchaucodeinterview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640385FD-F516-4193-86EB-86F197579128}|CarRental.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 456,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T14:20:52.554Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:56:23.585Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FullRental.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Models\\FullRental.cs",
+              "RelativeDocumentMoniker": "Models\\FullRental.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Models\\FullRental.cs",
+              "RelativeToolTip": "Models\\FullRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:29:07.538Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "Models\\Rental.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Models\\Rental.cs",
+              "RelativeToolTip": "Models\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:14:14.816Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:14:07.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:14:02.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerEditView.xaml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CustomerEditView.xaml",
+              "RelativeDocumentMoniker": "Views\\CustomerEditView.xaml",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CustomerEditView.xaml",
+              "RelativeToolTip": "Views\\CustomerEditView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T06:41:59.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerEditView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CustomerEditView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CustomerEditView.xaml.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CustomerEditView.xaml.cs",
+              "RelativeToolTip": "Views\\CustomerEditView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:42:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\CustomerEditViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CustomerEditViewModel.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\CustomerEditViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CustomerEditViewModel.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:40:13.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerTableView.xaml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CustomerTableView.xaml",
+              "RelativeDocumentMoniker": "Views\\CustomerTableView.xaml",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CustomerTableView.xaml",
+              "RelativeToolTip": "Views\\CustomerTableView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T06:24:33.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerTableView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CustomerTableView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CustomerTableView.xaml.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CustomerTableView.xaml.cs",
+              "RelativeToolTip": "Views\\CustomerTableView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:25:49.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerTableViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\CustomerTableViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CustomerTableViewModel.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\CustomerTableViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CustomerTableViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:24:48.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:56:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T14:56:12.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarTableView.xaml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CarTableView.xaml",
+              "RelativeDocumentMoniker": "Views\\CarTableView.xaml",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CarTableView.xaml",
+              "RelativeToolTip": "Views\\CarTableView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T07:26:39.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarTableView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CarTableView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CarTableView.xaml.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CarTableView.xaml.cs",
+              "RelativeToolTip": "Views\\CarTableView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:27:00.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarTableViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\CarTableViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CarTableViewModel.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\CarTableViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CarTableViewModel.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:27:18.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarEditView.xaml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CarEditView.xaml",
+              "RelativeDocumentMoniker": "Views\\CarEditView.xaml",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CarEditView.xaml",
+              "RelativeToolTip": "Views\\CarEditView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T07:26:54.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarEditView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CarEditView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CarEditView.xaml.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\CarEditView.xaml.cs",
+              "RelativeToolTip": "Views\\CarEditView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:26:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\CarEditViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CarEditViewModel.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\CarEditViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CarEditViewModel.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:27:10.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 530,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\DataBase\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\DataBaseContext.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\DataBase\\DataBaseContext.cs",
+              "RelativeToolTip": "DataBase\\DataBaseContext.cs",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:06:06.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Libs\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Libs\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Libs\\RelayCommand.cs",
+              "RelativeToolTip": "Libs\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:28:07.71Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentalTableView.xaml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\RentalTableView.xaml",
+              "RelativeDocumentMoniker": "Views\\RentalTableView.xaml",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\RentalTableView.xaml",
+              "RelativeToolTip": "Views\\RentalTableView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T09:35:22.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentalTableView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\RentalTableView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\RentalTableView.xaml.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\RentalTableView.xaml.cs",
+              "RelativeToolTip": "Views\\RentalTableView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:35:40.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalTableViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\RentalTableViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RentalTableViewModel.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\RentalTableViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RentalTableViewModel.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAHcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:35:13.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalEditView.xaml",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\RentalEditView.xaml",
+              "RelativeDocumentMoniker": "Views\\RentalEditView.xaml",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\RentalEditView.xaml",
+              "RelativeToolTip": "Views\\RentalEditView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T09:35:35.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalEditView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\RentalEditView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\RentalEditView.xaml.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\Views\\RentalEditView.xaml.cs",
+              "RelativeToolTip": "Views\\RentalEditView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:35:40.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\RentalEditViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RentalEditViewModel.cs",
+              "ToolTip": "C:\\Users\\Tobias\\source\\repos\\CarRental\\FerchauCodeInterview\\ViewModels\\RentalEditViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RentalEditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:35:03.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
